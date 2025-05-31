@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Miguel Ángel Muñoz Bautista
 
-**Comercial y Administrativo | Tecnólogo en Análisis y Desarrollo de Software (en formación)**
+**Comercial y Administrativo | Tecnólogo en Análisis y Desarrollo de Software (en Practica)**
 
 📍 Colombia | 📧 angelm3014@gmail.com | 📱 (+57) 312 5257631
 
