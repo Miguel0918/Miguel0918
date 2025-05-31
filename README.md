@@ -8,7 +8,7 @@ Desarrollador de software junior en practica (Tecnólogo), en transición desde 
 
 ## 💼 Sobre mí
 
-- 🎓 Tecnólogo en desarrollo de software en practica (actualmente)
+- 🎓 Tecnólogo en desarrollo de software en practica
 - 🔄 En transición profesional: Combinando mi experiencia en gestión de equipos con nuevas habilidades técnicas
 - 💡 Enfocado en el desarrollo web con **HTML/CSS**, **JavaScript** (Vue.js, Node.js) y **PHP** (Laravel)
 - 🌐 Me gusta explorar y experimentar con nuevas tecnologías para mejorar mis habilidades.
