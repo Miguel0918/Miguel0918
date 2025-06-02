@@ -20,38 +20,80 @@ Desarrollador de software junior en practica (Tecnólogo), en transición desde 
 
 ### Lenguajes:
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" title="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" title="PHP" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" title="CSS3" />
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">JavaScript</span>
+      </div>
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">PHP</span>
+      </div>
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">HTML5</span>
+      </div>
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">CSS3</span>
+      </div>
 </div>
 
 ---
 
 ### Frameworks y Librerías:
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" title="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" title="Laravel" />
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">Vue.js</span>
+      </div>
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">Node.js</span>
+      </div>
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">Laravel</span>
+      </div>
 </div>
 
 ---
 
 ### Bases de Datos:
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="70" alt="MySQL" title="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis" title="Redis" />
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">MySQL</span>
+      </div>
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">MongoDB</span>
+      </div> 
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">Redis</span>
+      </div>
 </div>
 
 ---
 
 ### Herramientas:
 <div style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center; margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" title="VSCode" />
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">Docker</span>
+      </div>
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">GitHub</span>
+      </div>
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">Git</span>
+      </div>
+  <div style="display: flex; flex-direction: column; align-items: flex-start; background: #f5f5f5; padding: 10px; border-radius: 12px; box-shadow: 2px 2px 5px rgba(0,0,0,0.1);">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+        <span style="font-size: 13px; margin-top: 6px;">VSCode</span>
+      </div>
 </div>
 
 ---
